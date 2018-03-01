@@ -1,1 +1,1 @@
-cat /proc/version
+/etc/debian_version
