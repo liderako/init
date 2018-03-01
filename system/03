@@ -1,0 +1,1 @@
+edit /etc/hostname run /etc/init.d/hostname.sh start and reboot system
