@@ -1,1 +1,1 @@
-sudo kill $!
+sudo kill $1
