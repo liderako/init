@@ -1,0 +1,4 @@
+crontab -l >> file
+echo "0 4 * * 3 root apt-get update && apt-get upgrade sudo >> /var/log/update_script.log" >> file
+crontab file
+rm -rf file
