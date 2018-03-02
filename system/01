@@ -1,1 +1,2 @@
-/etc/debian_version
+For debian == /etc/debian_version
+For mint == /etc/lsb-release
